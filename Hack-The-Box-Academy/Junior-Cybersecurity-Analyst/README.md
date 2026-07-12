@@ -27,16 +27,28 @@ Build a strong foundation in:
 -Introduction to Network Process
 -Windows Event Logs & Finding Evil 
 -Security Monitoring & SIEM Fundamentals 
--Introduction to Threat Hunting & Hunting With    Elastic  
+-Introduction to Threat Hunting & Hunting With Elastic  
 
 
 
 ## Progress
 
 - [ ] Introduction to Information Security
+- [ ] Network Foundations 
+-  [ ] Introduction to Networking 
 - [ ] Linux Fundamentals
+- [ ] Introduction to Bash Scripting 
 - [ ] Windows Fundamentals
-- [ ] Networking Fundamentals
-- [ ] Active Directory
-- [ ] Web Requests
-- [ ] Introduction to Web Applications
+- [ ] Introduction to Windows Command Line
+-  [ ] Web Requests 
+-  [ ] Introduction to Web Applications
+-  [ ] Introduction To Penetration Testing 
+-  [ ]  Pentest in a Nutshell 
+-  [ ]  Network Enumeration With Nmap
+-  [ ]  Foot printing 
+-  [ ] Hacking Wordpress
+-  [ ] Using The Metaspoilt Framework 
+-  [ ] Introduction to Network Process
+-  [ ]   Windows Event Logs & Finding Evil 
+-  [ ]  Security Monitoring & SIEM Fundamentals 
+-   [ ] Introduction to Threat Hunting & Hunting With Elastic  
