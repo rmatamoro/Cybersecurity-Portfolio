@@ -1,0 +1,33 @@
+# Interview- Questions 
+
+#Part 1 – Introduction to Information Security
+
+1. What is Information Security (InfoSec)?
+2. Why has Information Security become increasingly important in the digital age?
+3. Explain the difference between a client, a server, a network, and the cloud.
+4. What are the roles and responsibilities of the Red Team, Blue Team, and Purple Team?
+5. What is the difference between a threat, a vulnerability, and a risk? How are they related?
+6. Explain the castle analogy used to describe Information Security.
+
+
+
+
+#Part 2 – Principles of Information Security
+
+1. What is the CIA Triad, and why is it considered the foundation of Information Security?
+2. Besides the CIA Triad, what other security principles are commonly used in Information Security?
+3. Describe the seven main Information Security processes in the correct order.
+4. What is the purpose of Information Security within an organization?
+5. Name and briefly explain five common Information Security tools.
+6. Which operating systems and security tools should an aspiring cybersecurity professional become familiar with, and why?
+
+
+Part 3 – Network Security
+
+1. What is Network Security, and why is it important?
+2. What security technologies are commonly used to protect a network?
+3. What are the potential consequences of a successful network breach?
+4. Who is responsible for managing an organization’s network security?
+5. Why do organizations perform penetration testing on their networks?
+6. How do firewalls, IDS/IPS, VPNs, access controls, and encryption work together to protect a network?
+
