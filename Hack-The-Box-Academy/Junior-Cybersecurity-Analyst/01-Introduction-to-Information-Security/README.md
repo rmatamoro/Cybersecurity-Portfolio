@@ -10,11 +10,11 @@
 
 ## Key Concepts Learned
 
-(To be completed.)
+Threats, Vulnerabilities, Ricks. CIA Triad. Authentican vs Authorization. Priniciples of InfoSec.
 
 ## Tools Used
 
-(To be completed.)
+Firewalls, IDS/IPS, SIEM, Metasploit, Jack the Repper, Burp Suite, Linux, Windows, Wireshark, Nmap
 
 ## Commands
 
