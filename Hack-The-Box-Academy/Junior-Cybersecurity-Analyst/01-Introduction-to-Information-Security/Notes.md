@@ -27,4 +27,19 @@ Risks: is a broader concept that encapsulate both threats and vulnerabilities an
 
 Threats: a potential cause of an incident that could result in harm to a system or organization. It can be a person (hacker), natural event (flood or fire)
 
-Vulneraility: A weakness in a system that can be exploited by a threat. The presence of vulnerabilities do not necessarily mean a system will be compromised. THere must be a threat capable of exploiing it and potential damage that can be done. 
+Vulneraility: A weakness in a system that can be exploited by a threat. The presence of vulnerabilities do not necessarily mean a system will be compromised. THere must be a threat capable of exploiing it and potential damage that can be done.
+ALL COMCEPTS ARE INTERCONNECTED 
+
+Chief Information Security Officer (CISO) oversees the entire information security programSets, overall security strategy that pen testers will evaluate. 
+
+Security Architect Design: secure systems and network creates the system that pen testers will attempt to breach. 
+
+Penetration Tester: Identifies vulnerabilities through simulated attacks. 
+Actively looking for exploits and vulnerabilities within a system. legally and ethically. 
+
+Incident Response Specialist: Manages and responds to security inceident. Often works in tandem with pen testers by responding to their attacks, sharing/ collaborating with them afterwards to discuss lessons learned. 
+
+Security Analyst: Monitors systems for threats and alayzes security data. May use pen results to improve monitoring. 
+
+Compliance Specialist: 
+
