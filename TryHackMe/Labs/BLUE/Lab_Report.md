@@ -16,7 +16,7 @@ Gain administrator access to a vulnerable Windows machine using the MS17-010 (Et
 
 nmap <ip>
 
-nmap -sV <ip>
+nmap -sV <ip> & nmap -sC -sV <ip>
 
 search ms17-010
 
