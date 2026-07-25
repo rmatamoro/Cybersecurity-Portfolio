@@ -1,4 +1,4 @@
-# Blue
+# Blue- EternalBlue Room
 
 ## Objective
 Gain administrator access to a vulnerable Windows machine using the MS17-010 (EternalBlue) vulnerability.
