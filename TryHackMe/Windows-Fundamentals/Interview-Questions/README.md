@@ -86,15 +86,15 @@ Scenario-Based Interview Questions
 
 These are closer to what you might hear in a real interview.
 27. A user tells you they cannot install software even though they’re logged into Windows. What would you check first?
+
 28. A user accidentally deleted a file in the System32 directory. Why could this cause serious problems?
-29. During a malware investigation, you discover suspicious data hidden inside an NTFS Alternate Data Stream. Why might attackers use ADS?
-30. A user keeps clicking “Yes” on every UAC prompt without reading them. Why is this a security concern?
-31. A standard user needs to install approved software. How would you assist them while following security best practices?
+29. 
+30. During a malware investigation, you discover suspicious data hidden inside an NTFS Alternate Data Stream. Why might attackers use ADS?
+31. 
+32. A user keeps clicking “Yes” on every UAC prompt without reading them. Why is this a security concern?
+33. 
+34. A standard user needs to install approved software. How would you assist them while following security best practices?
  
 ⸻
  
-What I want you to do
-Don’t answer all 30 at once.
-We’ll make this interactive, just like a technical interview.
-Answer Questions 1–5 in your own words. Don’t worry about being perfect—I want to see your understanding. I’ll review each answer, point out anything that’s missing or inaccurate, and help you refine it into the kind of response that would impress an interviewer.
-This approach will help you retain the material much better than simply reading your notes.
+
