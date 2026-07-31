@@ -9,14 +9,16 @@ Investigate a compromised Windows machine to identify indicators of compromise (
 ## Skills Practiced
 
 - Windows host investigation
+- PowerShell enumeration
+- Windows command-line administration
 - Windows Event Viewer analysis
-- User account investigation
-- Scheduled task analysis
-- Windows Firewall investigation
+- User account enumeration
+- Scheduled Task investigation
+- Windows Firewall analysis
 - Host file analysis
-- Command-line enumeration
+- Basic digital forensics
+- Timeline analysis
 - Identifying Indicators of Compromise (IoCs)
-
 ---
 
 ## Investigation Process
@@ -153,7 +155,7 @@ Reviewed Windows Defender Firewall inbound rules to identify ports opened by the
 - Command Prompt
 - Event Viewer
 - Task Scheduler
-- Windows Firewall
+- Windows Defender Firewall
 - Windows Explorer
 
 ---
